@@ -1,0 +1,9 @@
+Order Date,Item Code,Product Name,Category,Unit,Quantity,Unit Price,Total Price,Supplier
+2025-01-20,SYS001,Ground Beef 80/20,Meat,LB,50,4.99,249.50,Sysco Corporation
+2025-01-20,SYS002,Chicken Breast Boneless,Meat,LB,25,6.99,174.75,Sysco Corporation
+2025-01-20,SYS003,Russet Potatoes,Produce,LB,100,0.89,89.00,Sysco Corporation
+2025-01-20,SYS004,Yellow Onions,Produce,LB,30,1.29,38.70,Sysco Corporation
+2025-01-20,SYS005,Romaine Lettuce,Produce,EA,24,2.49,59.76,Sysco Corporation
+2025-01-20,SYS006,Canned Tomatoes 28oz,Pantry,EA,12,1.89,22.68,Sysco Corporation
+2025-01-20,SYS007,White Rice 20lb,Pantry,EA,5,18.99,94.95,Sysco Corporation
+2025-01-20,SYS008,Vegetable Oil 1gal,Pantry,EA,3,12.49,37.47,Sysco Corporation

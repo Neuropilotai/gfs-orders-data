@@ -1,0 +1,16 @@
+productName,productCode,quantity,unitPrice,orderDate,expiryDate,supplier,unitOfMeasure,category,brand,packageSize,totalPrice,vendorItemCode,description,nutritionalInfo,allergenInfo,storageTemp,shelfLife,countryOrigin
+Ground Beef 80/20,GB001,50,8.95,2025-01-15,2025-02-15,Sysco,LB,Protein,Sysco Imperial,1 LB,447.50,SYS-GB-001,"Fresh ground beef 80% lean 20% fat","Protein: 20g per serving","Contains: None",32-38°F,30 days,USA
+Milk 2% Reduced Fat,MLK002,20,4.25,2025-01-15,2025-01-25,Sysco,GAL,Dairy,Sysco Classic,1 GAL,85.00,SYS-MLK-002,"Grade A pasteurized milk","Calcium: 30% DV","Contains: Milk",32-38°F,10 days,USA
+Hamburger Buns,BRD001,48,2.89,2025-01-15,2025-01-22,Sysco,PKG,Bakery,Wonder,8 CT PKG,138.72,SYS-BRD-001,"Fresh hamburger buns","Enriched flour","Contains: Wheat Gluten",Room Temp,7 days,USA
+Chicken Breast Boneless,CHK001,30,12.50,2025-01-15,2025-01-20,Sysco,LB,Protein,Tyson,1 LB,375.00,SYS-CHK-001,"Fresh boneless chicken breast","High protein","Contains: None",32-38°F,5 days,USA
+French Fries Frozen,FRZ001,12,5.75,2025-01-15,2025-12-15,Sysco,BAG,Frozen,Sysco Imperial,5 LB BAG,69.00,SYS-FRZ-001,"Frozen french fries","Potato based","Contains: None",-10°F,365 days,USA
+Romaine Lettuce,VEG001,24,3.45,2025-01-15,2025-01-20,Sysco,HEAD,Produce,Fresh Express,1 HEAD,82.80,SYS-VEG-001,"Fresh romaine lettuce heads","Vitamin K rich","Contains: None",32-38°F,5 days,USA
+Cheddar Cheese Sliced,CHZ001,6,8.95,2025-01-15,2025-03-15,Sysco,PKG,Dairy,Kraft,2 LB PKG,53.70,SYS-CHZ-001,"Pre-sliced cheddar cheese","Calcium source","Contains: Milk",32-38°F,60 days,USA
+Tomatoes Fresh,VEG002,15,4.75,2025-01-15,2025-01-22,Sysco,LB,Produce,Local Farm,1 LB,71.25,SYS-VEG-002,"Fresh vine ripened tomatoes","Lycopene rich","Contains: None",55-70°F,7 days,USA
+Cooking Oil Vegetable,OIL001,4,12.95,2025-01-15,2025-12-15,Sysco,GAL,Pantry,Sysco Imperial,1 GAL,51.80,SYS-OIL-001,"100% vegetable cooking oil","Trans fat free","Contains: Soy",Room Temp,365 days,USA
+Onions Yellow,VEG003,25,2.25,2025-01-15,2025-03-15,Sysco,LB,Produce,Local Farm,1 LB,56.25,SYS-VEG-003,"Fresh yellow onions","Vitamin C source","Contains: None",Cool Dry,60 days,USA
+Rice Long Grain,GRN001,8,6.50,2025-01-15,2025-12-15,Sysco,BAG,Grains,Uncle Ben's,5 LB BAG,52.00,SYS-GRN-001,"Long grain white rice","Enriched","Contains: None",Room Temp,365 days,USA
+Eggs Large Grade A,EGG001,12,3.85,2025-01-15,2025-02-05,Sysco,DZ,Dairy,Farm Fresh,1 DZ,46.20,SYS-EGG-001,"Large grade A eggs","High protein","Contains: Eggs",32-38°F,21 days,USA
+Bacon Sliced,BCN001,10,9.75,2025-01-15,2025-02-20,Sysco,LB,Protein,Oscar Mayer,1 LB,97.50,SYS-BCN-001,"Thick cut bacon slices","Smoked flavor","Contains: None",32-38°F,35 days,USA
+Potatoes Russet,VEG004,50,1.89,2025-01-15,2025-03-01,Sysco,LB,Produce,Idaho Gold,1 LB,94.50,SYS-VEG-004,"Fresh russet potatoes","Potassium rich","Contains: None",Cool Dark,45 days,USA
+Orange Juice,BEV001,8,5.25,2025-01-15,2025-02-01,Sysco,GAL,Beverages,Tropicana,1 GAL,42.00,SYS-BEV-001,"100% orange juice","Vitamin C fortified","Contains: None",32-38°F,17 days,USA
